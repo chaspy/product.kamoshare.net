@@ -1,6 +1,6 @@
 ---
 title: "Delete Branch Bot"
-date: 2018-10-27T14:25:31+09:00
+date: 2018-09-26T14:25:31+09:00
 draft: false
 ---
 
