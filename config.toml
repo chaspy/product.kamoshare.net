@@ -1,4 +1,4 @@
-baseURL = "https://products.kamoshare.net"
+baseURL = "https://products.kamoshare.net/"
 languageCode = "en-us"
 title = "Products of kamoshare"
 theme = "hugo_theme_pickles"
